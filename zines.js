@@ -1,0 +1,200 @@
+window.ZINES = [
+ {
+  "id": "cincinnati-winter-runs",
+  "title": "Cincinnati",
+  "sub": "Winter Runs",
+  "cover": "assets/cincinnati-winter-runs/cover-thumb.jpg",
+  "panels": [
+   "assets/cincinnati-winter-runs/00.jpg",
+   "assets/cincinnati-winter-runs/01.jpg",
+   "assets/cincinnati-winter-runs/02.jpg",
+   "assets/cincinnati-winter-runs/03.jpg",
+   "assets/cincinnati-winter-runs/04.jpg",
+   "assets/cincinnati-winter-runs/05.jpg",
+   "assets/cincinnati-winter-runs/06.jpg",
+   "assets/cincinnati-winter-runs/07.jpg",
+   "assets/cincinnati-winter-runs/08.jpg",
+   "assets/cincinnati-winter-runs/09.jpg",
+   "assets/cincinnati-winter-runs/10.jpg",
+   "assets/cincinnati-winter-runs/11.jpg",
+   "assets/cincinnati-winter-runs/12.jpg",
+   "assets/cincinnati-winter-runs/13.jpg"
+  ]
+ },
+ {
+  "id": "london-new-year",
+  "title": "London",
+  "sub": "New Year",
+  "cover": "assets/london-new-year/cover-thumb.jpg",
+  "panels": [
+   "assets/london-new-year/00.jpg",
+   "assets/london-new-year/01.jpg",
+   "assets/london-new-year/02.jpg",
+   "assets/london-new-year/03.jpg",
+   "assets/london-new-year/04.jpg",
+   "assets/london-new-year/05.jpg",
+   "assets/london-new-year/06.jpg",
+   "assets/london-new-year/07.jpg",
+   "assets/london-new-year/08.jpg",
+   "assets/london-new-year/09.jpg",
+   "assets/london-new-year/10.jpg",
+   "assets/london-new-year/11.jpg",
+   "assets/london-new-year/12.jpg",
+   "assets/london-new-year/13.jpg"
+  ]
+ },
+ {
+  "id": "flowers-afife",
+  "title": "Flowers",
+  "sub": "Afife",
+  "cover": "assets/flowers-afife/cover-thumb.jpg",
+  "panels": [
+   "assets/flowers-afife/00.jpg",
+   "assets/flowers-afife/01.jpg",
+   "assets/flowers-afife/02.jpg",
+   "assets/flowers-afife/03.jpg",
+   "assets/flowers-afife/04.jpg",
+   "assets/flowers-afife/05.jpg",
+   "assets/flowers-afife/06.jpg",
+   "assets/flowers-afife/07.jpg",
+   "assets/flowers-afife/08.jpg",
+   "assets/flowers-afife/09.jpg",
+   "assets/flowers-afife/10.jpg",
+   "assets/flowers-afife/11.jpg",
+   "assets/flowers-afife/12.jpg",
+   "assets/flowers-afife/13.jpg"
+  ]
+ },
+ {
+  "id": "barcelona-june",
+  "title": "Barcelona",
+  "sub": "June",
+  "cover": "assets/barcelona-june/cover-thumb.jpg",
+  "panels": [
+   "assets/barcelona-june/00.jpg",
+   "assets/barcelona-june/01.jpg",
+   "assets/barcelona-june/02.jpg",
+   "assets/barcelona-june/03.jpg",
+   "assets/barcelona-june/04.jpg",
+   "assets/barcelona-june/05.jpg",
+   "assets/barcelona-june/06.jpg",
+   "assets/barcelona-june/07.jpg",
+   "assets/barcelona-june/08.jpg",
+   "assets/barcelona-june/09.jpg",
+   "assets/barcelona-june/10.jpg",
+   "assets/barcelona-june/11.jpg",
+   "assets/barcelona-june/12.jpg",
+   "assets/barcelona-june/13.jpg"
+  ]
+ },
+ {
+  "id": "london-summer",
+  "title": "London",
+  "sub": "Summer",
+  "cover": "assets/london-summer/cover-thumb.jpg",
+  "panels": [
+   "assets/london-summer/00.jpg",
+   "assets/london-summer/01.jpg",
+   "assets/london-summer/02.jpg",
+   "assets/london-summer/03.jpg",
+   "assets/london-summer/04.jpg",
+   "assets/london-summer/05.jpg",
+   "assets/london-summer/06.jpg",
+   "assets/london-summer/07.jpg",
+   "assets/london-summer/08.jpg",
+   "assets/london-summer/09.jpg",
+   "assets/london-summer/10.jpg",
+   "assets/london-summer/11.jpg",
+   "assets/london-summer/12.jpg",
+   "assets/london-summer/13.jpg"
+  ]
+ },
+ {
+  "id": "cincinnati-summer",
+  "title": "Cincinnati",
+  "sub": "Summer",
+  "cover": "assets/cincinnati-summer/cover-thumb.jpg",
+  "panels": [
+   "assets/cincinnati-summer/00.jpg",
+   "assets/cincinnati-summer/01.jpg",
+   "assets/cincinnati-summer/02.jpg",
+   "assets/cincinnati-summer/03.jpg",
+   "assets/cincinnati-summer/04.jpg",
+   "assets/cincinnati-summer/05.jpg",
+   "assets/cincinnati-summer/06.jpg",
+   "assets/cincinnati-summer/07.jpg",
+   "assets/cincinnati-summer/08.jpg",
+   "assets/cincinnati-summer/09.jpg",
+   "assets/cincinnati-summer/10.jpg",
+   "assets/cincinnati-summer/11.jpg",
+   "assets/cincinnati-summer/12.jpg",
+   "assets/cincinnati-summer/13.jpg"
+  ]
+ },
+ {
+  "id": "lithuania-portugal",
+  "title": "Lithuania",
+  "sub": "August",
+  "cover": "assets/lithuania-portugal/cover-thumb.jpg",
+  "panels": [
+   "assets/lithuania-portugal/00.jpg",
+   "assets/lithuania-portugal/01.jpg",
+   "assets/lithuania-portugal/02.jpg",
+   "assets/lithuania-portugal/03.jpg",
+   "assets/lithuania-portugal/04.jpg",
+   "assets/lithuania-portugal/05.jpg",
+   "assets/lithuania-portugal/06.jpg",
+   "assets/lithuania-portugal/07.jpg",
+   "assets/lithuania-portugal/08.jpg",
+   "assets/lithuania-portugal/09.jpg",
+   "assets/lithuania-portugal/10.jpg",
+   "assets/lithuania-portugal/11.jpg",
+   "assets/lithuania-portugal/12.jpg",
+   "assets/lithuania-portugal/13.jpg"
+  ]
+ },
+ {
+  "id": "ohio-september",
+  "title": "Ohio",
+  "sub": "September",
+  "cover": "assets/ohio-september/cover-thumb.jpg",
+  "panels": [
+   "assets/ohio-september/00.jpg",
+   "assets/ohio-september/01.jpg",
+   "assets/ohio-september/02.jpg",
+   "assets/ohio-september/03.jpg",
+   "assets/ohio-september/04.jpg",
+   "assets/ohio-september/05.jpg",
+   "assets/ohio-september/06.jpg",
+   "assets/ohio-september/07.jpg",
+   "assets/ohio-september/08.jpg",
+   "assets/ohio-september/09.jpg",
+   "assets/ohio-september/10.jpg",
+   "assets/ohio-september/11.jpg",
+   "assets/ohio-september/12.jpg",
+   "assets/ohio-september/13.jpg"
+  ]
+ },
+ {
+  "id": "sevilla-october",
+  "title": "Sevilla",
+  "sub": "October",
+  "cover": "assets/sevilla-october/cover-thumb.jpg",
+  "panels": [
+   "assets/sevilla-october/00.jpg",
+   "assets/sevilla-october/01.jpg",
+   "assets/sevilla-october/02.jpg",
+   "assets/sevilla-october/03.jpg",
+   "assets/sevilla-october/04.jpg",
+   "assets/sevilla-october/05.jpg",
+   "assets/sevilla-october/06.jpg",
+   "assets/sevilla-october/07.jpg",
+   "assets/sevilla-october/08.jpg",
+   "assets/sevilla-october/09.jpg",
+   "assets/sevilla-october/10.jpg",
+   "assets/sevilla-october/11.jpg",
+   "assets/sevilla-october/12.jpg",
+   "assets/sevilla-october/13.jpg"
+  ]
+ }
+];

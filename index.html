@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zine binder</title>
+<link rel="stylesheet" href="binder.css">
+</head>
+<body>
+<div id="zb-app">
+  <div class="zb-layout">
+    <header class="zb-intro">
+      <h1>Zines from 2026</h1>
+      <p id="zb-lede"></p>
+      <p class="zb-hint">Turn pages with the arrow keys, a swipe, or a click on the page.</p>
+    </header>
+    <main>
+      <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><linearGradient id="zb-metal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f6f9"/><stop offset=".45" stop-color="#aab3c0"/><stop offset="1" stop-color="#6f7a89"/></linearGradient></defs></svg>
+      <div class="zb-binder" id="zb-binder"><div class="zb-spread" id="zb-spread"></div></div>
+    </main>
+  </div>
+</div>
+<script src="zines.js"></script>
+<script src="binder.js"></script>
+</body>
+</html>
